@@ -1,4 +1,5 @@
 node_modules
-.gitignore
-package-lock.json
 test.js
+.vscode
+package-lock.json
+.gitignore
