@@ -16,5 +16,9 @@
   "license": "MIT",
   "dependencies": {
     "request": "^2.83.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ScottishCyclops/wit-ai"
   }
 }
